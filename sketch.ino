@@ -1,4 +1,4 @@
-
+// Projekt z przedmiotu technika mikroprocesorowa 1
 // Opis projektu:
 // Stworzyliśmy elektroniczny metronom z wyborem odpowiednich opcji, do jego stworzenia
 // zostały wykorzystane następujące elementy:
